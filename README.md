@@ -1,2 +1,2 @@
 # zwtdyhm.github.io
-我发现了一个秘密！这是一个特殊的存储库，您可以使用该存储库搭建静态网站。确保它是公共的，并使用自述文件对其进行初始化以开始使用。
+I found a secret! This is a special repository, which you can use to build a static website. Make sure it is public, and initialize it with the website file to get started.
