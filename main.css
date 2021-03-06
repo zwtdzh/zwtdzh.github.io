@@ -1,3 +1,10 @@
+@import url(../img/font-awesome.min.css);
+@import url("../img/1ca117ae5ee51828bc3a1281c5bec95e.png");
+/*
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
 
 /* Reset */
 
@@ -606,7 +613,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-image: url("overlay.png");
+			background-image: url("../img/overlay.png");
 			background-color: rgba(19, 21, 25, 0.5);
 			border-radius: 4px;
 			content: '';
@@ -1089,7 +1096,7 @@
 			-webkit-transition: -webkit-transform 0.1s ease-in-out, -webkit-filter 0.1s ease-in-out;
 			-ms-transition: -ms-transform 0.1s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.1s ease-in-out, filter 0.1s ease-in-out;
-			background-image: url("bg.jpg");
+			background-image: url("../img/bg.jpg");
             background-repeat: no-repeat;
 			background-position: center;
 			background-size: cover;
@@ -1517,7 +1524,7 @@
 					height: 2.5rem;
 					border-radius: 100%;
 					background-position: center;
-					background-image: url("5b774f39ba562189c3345ab827a19440.png");
+					background-image: url("../img/5b774f39ba562189c3345ab827a19440.png");
 					background-size: 20px 20px;
 					background-repeat: no-repeat;
 				}
